@@ -1,0 +1,5 @@
+name: ${project.name}
+main: ${project.groupId}.${project.artifactId}.${project.name}
+version: ${project.version}
+description: Portal in minecraft, server-sided
+author: 1Rogue
